@@ -9,7 +9,7 @@ $ brew cask install {cask-name}
 
 ### Creating a new cask
 
-Copy the template from the root directory to the Casks folder:
+Copy the template from the example folder to the Casks folder:
 
 ```
 $ cp template.rb Casks/your-cask-name.rb
