@@ -1,6 +1,6 @@
 cask "request-rocket" do
-  version "1.3.2"
-  sha256 "1a630b95190ff00269dbbef484b75cb97599a78877d90f049c7b0817c7188efa"
+  version "1.3.4"
+  sha256 "9f6b9e03e51f2de5844e7f6fd82503fd66fe2cf2bcb4d069c328497064a055a9"
 
   url "https://github.com/emartech/request-rocket/releases/download/#{version}/Request.Rocket-#{version}.dmg"
   appcast "https://github.com/emartech/request-rocket/releases.atom"
