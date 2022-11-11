@@ -1,6 +1,6 @@
 cask "gap-secret-editor" do
-  version "1.10.0"
-  sha256 "17d66c550326e245c2b61b721cafe9de6e51c50eb3dda0485ce08ecd33237e76"
+  version "1.15.0"
+  sha256 "8f19e9cfbbbbd8ff3956caa458a9227e9c509c2580ef04d8e6293847b1d9be6f"
 
   url "https://github.com/emartech/gap-secret-editor/releases/download/v#{version}/GAP-Secret-Editor-#{version}.dmg"
   appcast "https://github.com/emartech/gap-secret-editor/releases.atom"
